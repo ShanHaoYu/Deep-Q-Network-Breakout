@@ -6,7 +6,7 @@ playing Breakout from OpenAI's gym with Keras.
 ## Demo
 
 <p align="center"> 
-<img src="fig/demo.gif">
+<img src="demo.gif">
 </p>
 
 I've implement deep reinforcement learning algorithm with Keras. 
@@ -20,7 +20,7 @@ In this project, the following techniques have been implemented:
 Here's the architecture overview of DQN model in this work:
 
 <p align="center"> 
-<img src="fig/flow_chart.jpg">
+<img src="flow_chart.jpg">
 </p>
 
 The project is derived from an assignment of the course [ADLxMLDS](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/) 2017 fall.
