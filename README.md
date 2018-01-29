@@ -55,7 +55,7 @@ The follow packages are required, you can install them with `pip3 install [packa
 
 - Test the agent's ability
 
-     Before test the code, download the pretrained model from [goole drive](https://drive.google.com/open?id=1bEExnpqm13gBggtCld_aMBxBdbr1ze-s), and put the model into `./pretrained_model/model.h5`
+     Before test the code, download the pretrained model from [google drive](https://drive.google.com/open?id=1bEExnpqm13gBggtCld_aMBxBdbr1ze-s), and put the model into `./pretrained_model/model.h5`
      
      By running the following command, you can get agent's average score in 100 episode
      
