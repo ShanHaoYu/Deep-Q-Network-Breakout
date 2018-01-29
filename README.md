@@ -1,4 +1,4 @@
-# Deep-Q-Network--Breakout-
+# Deep-Q-Network--Breakout
 This is the third assignment of ADLxMLDS course, NTU 2017 Fall, which is an implementation of Deep Q Learning (DQN) 
 playing Breakout from OpenAI's gym with Keras.
 
