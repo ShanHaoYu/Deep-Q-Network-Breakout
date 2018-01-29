@@ -19,7 +19,7 @@ def add_arguments(parser):
     parser.add_argument('--no_op_steps', type=int, default = 2, help='Maximum number of "do nothing" actions to be performed by the agent at the start of an episode')
     parser.add_argument('--save_network_path', type=str, default = "saved_dqn_networks/", help='')
     parser.add_argument('--save_summary_path', type=str, default = "dqn_summary/", help='')
-    parser.add_argument('--test_dqn_model_path', type=str, default = "pretrained_model/dqn_w.h5", help='')
+    parser.add_argument('--test_dqn_model_path', type=str, default = "pretrained_model/dqn_300.h5", help='')
     parser.add_argument('--exp_name', type=str, default = "breakout_dqn", help='')
     parser.add_argument('--gpu_frac', type=float, default = 1.0, help='Set GPU use limit for tensorflow')
     parser.add_argument('--ddqn', type=bool, default = False, help='Set True to apply Double Q-learning')
