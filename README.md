@@ -12,10 +12,10 @@ playing Breakout from OpenAI's gym with Keras.
 I've implement deep reinforcement learning algorithm with Keras. 
 In this project, the following techniques have been implemented:
 
-- Deep Q Learning
-- Double Q Learning
-- Dueling Network
-- Prioritized Experience Play (not support yet!)
+- [x] Deep Q Learning
+- [x] Double Q Learning
+- [x] Dueling Network
+- [ ] Prioritized Experience Play 
 
 Here's the architecture overview of DQN model in this work:
 
