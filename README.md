@@ -51,8 +51,6 @@ The follow packages are required, you can install them with `pip3 install [packa
     
     `python main.py --train_dqn --dueling True`
 
-    For more parameters availble, please refer to [argument.py]()
-
 - Test the agent's ability
 
      Before test the code, download the pretrained model from [google drive](https://drive.google.com/open?id=1bEExnpqm13gBggtCld_aMBxBdbr1ze-s), and put the model into `./pretrained_model/model.h5`
